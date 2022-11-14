@@ -1,5 +1,5 @@
 # RunLogger
-Track your runs in real-time on a map, save and view logged runs on a map
+Track your runs in real-time on a map, save and view logged runs on a map.  Note: Simulator screen shots below do not show tracking with polylines/map lines for runs as they are screen shots from a iPhone Simulator in Xcode.  On a real device, it shows custom lines to track start and end of run :).
 
 ## Built with:
 - Xcode
